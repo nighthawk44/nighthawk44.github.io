@@ -1,0 +1,1 @@
+This site is to practice and exmplify my web developement capabilities.
